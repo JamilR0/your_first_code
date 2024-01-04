@@ -7,3 +7,13 @@ int main()
   }
   return 0;
 }
+Escuela
+Escuela
+Escuela
+Escuela
+Escuela
+Escuela
+Escuela
+Escuela
+Escuela
+Escuela
